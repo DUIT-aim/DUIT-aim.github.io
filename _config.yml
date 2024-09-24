@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "邹建军"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "1.优秀自己、成就他人、解决医院药学一些关键问题；2.做学生的人生导师：培养学生，爱生如子，传道授业解惑，做学生的“好老师，好朋友”"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
